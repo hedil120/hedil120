@@ -1,16 +1,22 @@
-## Hi there 👋
+# Salut, moi c'est Hedil 👋
 
-<!--
-**hedil120/hedil120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur web, passionné par React / le développement front-end /  le développement back-end 
+Je cherche un stage en développement .
 
-Here are some ideas to get you started:
+## 🛠️ Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JavaScript
+React
+Java
+HTML5
+CSS3
+bases de donnée 
+AI
+
+## 🚀 Projets
+
+- **[Crypto & Weather Dashboard](https://github.com/hedil120/mon-projet)** : application React qui affiche des données de crypto-monnaies, de météo et de profils GitHub via des API.
+
+## 📫 Me contacter
+
+- LinkedIn : [Hedil Boudhraa](https://www.linkedin.com/in/hedil-boudhraa-397a43363/)
